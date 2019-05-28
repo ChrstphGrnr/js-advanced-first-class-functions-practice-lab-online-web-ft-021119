@@ -2,6 +2,6 @@
 
 function driverNames(drivers) {
   drivers.map(driver) {
-    return driver.name
+    return driver.name;
   }
 }
