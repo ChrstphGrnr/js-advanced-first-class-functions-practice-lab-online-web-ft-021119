@@ -1,5 +1,7 @@
 // Code your solution in this file!
 
 function driverNames(drivers) {
-  drivers.map(driver)
+  drivers.map(driver) {
+    return driver.name
+  }
 }
